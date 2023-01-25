@@ -33,7 +33,7 @@ spec:
   selector:
     app: postgre
   ports:
-    - port: 5421
+    - port: 5432
   type: ClusterIP
 ---
 
