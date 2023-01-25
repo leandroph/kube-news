@@ -7,7 +7,7 @@ spec:
     matchLabels:
       app: postgre
   template:
-    metadate:
+    metadata:
       labels:
         app: postgre
     spec:
