@@ -32,7 +32,7 @@ Para testarmos a aplicação, temos que executar os 4 passos a seguir:
 ### 1. Fazer downloado do Projeto:
  1. Baixe este Repositório, executando o comando Git:
 ```bash
-git clone git@github.com:leandroph/kube-news.git
+git clone https://github.com/leandroph/kube-news.git
 ```
 <a name="criar-cluster"></a>
 ### 2. Criar Cluster Kubernetes1:
