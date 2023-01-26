@@ -62,7 +62,7 @@ kubectl get pods
 
 2. Se os passos anteriores foram executados corretamente, a resposta será semelhante a tela abaixo:
 
-![alt text](images/site.png)
+![alt text](images/kube-news.png)
 
 
 
