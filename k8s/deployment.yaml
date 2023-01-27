@@ -54,7 +54,7 @@ spec:
     spec:
       containers:
         - name: web
-          image: lheck/kube-new:v1
+          image: lheck/kube-new:{{TAG}}
           ports:
           - containerPort: 8080
           env:
