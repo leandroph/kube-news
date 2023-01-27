@@ -14,7 +14,6 @@ Este repositório é parte da atividade pratica da Aula 01 do Curso Jornada DevO
 Antes de começar, você vai precisar ter instalado em sua máquina os seguintes recursos:
 
 - [Git](https://git-scm.com/downloads)
-
 - [Docker](https://docs.docker.com/get-docker/)
 - [K3d](https://k3d.io/v5.4.6/#installation)
 - [Kubectl](https://kubernetes.io/docs/tasks/tools/)
@@ -29,7 +28,7 @@ Para testarmos a aplicação, temos que executar os 4 passos a seguir:
 4. [Acessar a Aplicação](#acessando-app)
 
 <a name="download-github"></a>
-### 1. Fazer downloado do Projeto:
+### 1. Fazer downloa do do Projeto:
  1. Baixe este Repositório, executando o comando Git:
 ```bash
 git clone https://github.com/leandroph/kube-news.git
