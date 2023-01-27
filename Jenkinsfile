@@ -6,7 +6,7 @@ pipeline{
         stage ('Build Docker Image') {
             step {
                 script {
-                    dockerapp = docker.buildl("lheck/kube-news:v1", '-f ./src/Dockerfile')
+                    dockerapp = docker.buildl("lheck/kube-news:${env.BUILD_ID}", '-f ./src/Dockerfile')
                 } 
             } 
         }    
